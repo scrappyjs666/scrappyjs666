@@ -10,7 +10,7 @@ Languages and Tools
 ![CSS](https://img.shields.io/badge/-CSS3-090909?style=flat-square&logo=CSS3&LogoColor=47C5FB)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=flat-square&logo=SASS&LogoColor=47C5FB)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=VSCODE&LogoColor=47C5FB)
+![VsCode](https://img.shields.io/badge/-VsCode-090909?style=flat-square&logo=VSCODE&LogoColor=47C5FB)
 ![NPM](https://img.shields.io/badge/-NPM-090909?style=flat-square&logo=NPM&LogoColor=47C5FB)
 ![NODEJS](https://img.shields.io/badge/-nodeJS-090909?style=flat-square&logo=nodeJS&LogoColor=47C5FB)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=flat-square&logo=REACT&LogoColor=47C5FB)
