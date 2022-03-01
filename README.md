@@ -2,8 +2,9 @@
 ## I'm from Minsk, I'm looking for a job as a junior frontend developer (react/vue)!😄 
 Click on my CV[https://rabota.by/]
 [https://img.icons8.com/color/2x/telegram-app.png]
-In my projects I used
+Languages and Tools
 </br>
+![JavaScript](https://img.shields.io/badge/-<JavaScript>-<COLOR>?style=flat-square&logo=JavaScript&LogoColor=47C5FB)
 ![](https://img.icons8.com/color/2x/javascript.png)
 ![](https://img.icons8.com/color/2x/html-5.png)
 ![](https://img.icons8.com/color/2x/css3.png)
