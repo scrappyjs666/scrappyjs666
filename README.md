@@ -4,11 +4,11 @@ In my projects I used
 ![](https://img.icons8.com/color/2x/javascript.png)
 ![](https://img.icons8.com/color/2x/html-5.png)
 ![](https://img.icons8.com/color/2x/css3.png)
-Тег <br />
+<br />
 ![](https://img.icons8.com/color/2x/sass.png)
 ![](https://img.icons8.com/color/2x/npm.png)
 ![](https://img.icons8.com/color/2x/nodejs.png)
-Тег <br />
+<br />
 ![](https://img.icons8.com/ultraviolet/2x/react.png)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scrappyjs666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
