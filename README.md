@@ -2,13 +2,16 @@
 ### I'm from Minsk, I'm looking for a job as a junior frontend developer (react/vue)! 😄 
 
 
-##### [![Click on my CV](https://ibb.co/7gcbZhp)](https://rabota.by):grinning:
 
-### My contacts!
-#### I am only in Telegram
+[![Click on my CV](https://imageup.ru/img114/3889186/256x256bb.jpg)](https://rabota.by) ***Click on my CV!***:grinning:
+
+
+### My contacts! I am only in Telegram
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&LogoColor=27A0D9)](https://t.me/scrappyzzz)
 
-Languages and Tools
+### Languages and Tools
+</br>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=JavaScript&LogoColor=47C5FB)
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=flat-square&logo=HTML5&LogoColor=47C5FB)
 ![CSS](https://img.shields.io/badge/-CSS3-090909?style=flat-square&logo=CSS3&LogoColor=47C5FB)
@@ -17,6 +20,7 @@ Languages and Tools
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=flat-square&logo=REACT&LogoColor=47C5FB)
 
 ### The most popular technologies in my projects!
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scrappyjs666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
