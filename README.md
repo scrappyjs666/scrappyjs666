@@ -16,6 +16,7 @@
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=flat-square&logo=REACT&LogoColor=47C5FB)
 
 The most popular technologies in my projects!
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scrappyjs666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
