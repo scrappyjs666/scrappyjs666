@@ -12,7 +12,7 @@ Languages and Tools
 
 ![VsCode](https://img.shields.io/badge/-VsCode-090909?style=flat-square&logo=VSCODE&LogoColor=47C5FB)
 ![NPM](https://img.shields.io/badge/-NPM-090909?style=flat-square&logo=NPM&LogoColor=47C5FB)
-![NODEJS](https://img.shields.io/badge/-nodeJS-090909?style=flat-square&logo=nodeJS&LogoColor=47C5FB)
+![NODEJS](https://img.shields.io/badge/-NODEJS-090909?style=flat-square&logo=NODEJS&LogoColor=47C5FB)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=flat-square&logo=REACT&LogoColor=47C5FB)
 
 </br>
