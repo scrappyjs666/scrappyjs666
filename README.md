@@ -4,11 +4,10 @@ Click on my CV[https://rabota.by/]
 [https://img.icons8.com/color/2x/telegram-app.png]
 Languages and Tools
 </br>
-![JavaScript](https://img.shields.io/badge/-<JavaScript>-090909?style=flat-square&logo=JavaScript&LogoColor=47C5FB)
-![](https://img.icons8.com/color/2x/javascript.png)
-![](https://img.icons8.com/color/2x/html-5.png)
-![](https://img.icons8.com/color/2x/css3.png)
-![](https://img.icons8.com/color/2x/sass.png)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=JavaScript&LogoColor=47C5FB)
+![JavaScript](https://img.shields.io/badge/-HTML5-090909?style=flat-square&logo=HTML5&LogoColor=47C5FB)
+![JavaScript](https://img.shields.io/badge/-CSS3-090909?style=flat-square&logo=CSS3&LogoColor=47C5FB)
+![JavaScript](https://img.shields.io/badge/-SASS-090909?style=flat-square&logo=SASS&LogoColor=47C5FB)
 </br>
 ![](https://img.icons8.com/color/2x/visual-studio-code-2019.png)
 ![](https://img.icons8.com/color/2x/npm.png)
