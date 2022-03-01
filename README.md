@@ -2,7 +2,7 @@
 ### I'm from Minsk, I'm looking for a job as a junior frontend developer (react/vue)! 😄 
 
 
-##### ![Click on my CV](https://ibb.co/7gcbZhp)](https://rabota.by/):grinning:
+##### [![Click on my CV](https://ibb.co/7gcbZhp)](https://rabota.by):grinning:
 
 ### My contacts!
 #### I am only in Telegram
