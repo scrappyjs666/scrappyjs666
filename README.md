@@ -13,7 +13,6 @@ I am only in Telegram [![Telegram](https://img.shields.io/badge/-Telegram-090909
 ![NPM](https://img.shields.io/badge/-NPM-090909?style=flat-square&logo=NPM&LogoColor=47C5FB)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=flat-square&logo=REACT&LogoColor=47C5FB)
 
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scrappyjs666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
