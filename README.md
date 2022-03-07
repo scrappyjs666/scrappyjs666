@@ -3,7 +3,7 @@
 
 
 
-[![Click on my CV](https://imageup.ru/img114/3889186/256x256bb.jpg)](https://rabota.by) ***Click on my CV!***:grinning:
+<!-- [![Click on my CV](https://imageup.ru/img114/3889186/256x256bb.jpg)](https://rabota.by) ***Click on my CV!***:grinning: -->
 
 
 ### My contacts! I am only in Telegram
