@@ -12,12 +12,14 @@
 ### Languages and Tools
 </br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=JavaScript&LogoColor=47C5FB)
-![HTML](https://img.shields.io/badge/-HTML5-090909?style=flat-square&logo=HTML5&LogoColor=47C5FB)
-![CSS](https://img.shields.io/badge/-CSS3-090909?style=flat-square&logo=CSS3&LogoColor=47C5FB)
-![SASS](https://img.shields.io/badge/-SASS-090909?style=flat-square&logo=SASS&LogoColor=47C5FB)
-![NPM](https://img.shields.io/badge/-NPM-090909?style=flat-square&logo=NPM&LogoColor=47C5FB)
-![REACT](https://img.shields.io/badge/-REACT-090909?style=flat-square&logo=REACT&LogoColor=47C5FB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### The most popular technologies in my projects!
 
