@@ -2,7 +2,6 @@
 ### I'm from Minsk, I'm looking for a job as a junior frontend developer (react/vue)! 😄 
 
 
-
 <!-- [![Click on my CV](https://imageup.ru/img114/3889186/256x256bb.jpg)](https://rabota.by) ***Click on my CV!***:grinning: -->
 
 
@@ -25,9 +24,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szx231&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### CodeWars stat
+
+![Codewars](https://github.r2v.ch/codewars?user=scrappyjs666)
+
 <!--
 **szx231/szx231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-![Codewars](https://github.r2v.ch/codewars?user=szx231&stroke=%23BB432C)
