@@ -2,11 +2,8 @@
 ### I'm from Minsk, I'm looking for a job as a junior frontend developer (react/vue)! 😄 
 
 
-<!-- [![Click on my CV](https://imageup.ru/img114/3889186/256x256bb.jpg)](https://rabota.by) ***Click on my CV!***:grinning: -->
-
-
 ### My contacts! I am only in Telegram
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&LogoColor=27A0D9)](https://t.me/scrappyzzz)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&LogoColor=27A0D9)](https://t.me/yyfsc)
 
 ### Languages and Tools
 </br>
