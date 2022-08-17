@@ -17,10 +17,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### The most popular technologies in my projects!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szx231&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### CodeWars stat
 
 ![Codewars](https://github.r2v.ch/codewars?user=scrappyjs666)
