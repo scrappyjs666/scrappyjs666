@@ -3,7 +3,7 @@
 
 
 ### My contacts! I am only in Telegram
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&LogoColor=27A0D9)](https://t.me/yyfsc)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&LogoColor=27A0D9)](https://t.me/zxc2c22)
 
 ### Languages and Tools
 </br>
