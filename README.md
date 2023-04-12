@@ -18,6 +18,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ![Codewars](https://github.r2v.ch/codewars?user=szx231&stroke=%23BB432C)
+![](https://leetcard.jacoblin.cool/scrappyjs666?theme=unicorn)
+
 
 <!--
 **szx231/szx231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
