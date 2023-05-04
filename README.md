@@ -1,6 +1,5 @@
 ## Hello, I'm very glad that you visited me! 👋
-### I'm from Minsk, I'm looking for a job as a junior frontend developer (react/vue)! 😄 
-
+### I'm from Minsk
 
 ### My contacts! I am only in Telegram
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&LogoColor=27A0D9)](https://t.me/zxc2c22)
